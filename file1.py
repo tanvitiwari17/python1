@@ -15,3 +15,5 @@ y=9
 y
 type('hello')
 type(4)
+z=6
+z
