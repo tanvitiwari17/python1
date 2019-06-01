@@ -19,3 +19,12 @@ print("sum of two numbers is=",(temp1+temp2)/2)
 #program to find square of a number
 num=eval(input("enter the number:"))
 print("the square of",num,"is=",num*num)
+
+#program for if else
+ctemp=eval(input("enter the temp in c:"))
+ftemp=9/5*ctemp+32
+print(ftemp)
+if ftemp<32:
+    print("temp is below the freezing point")
+if ftemp>212:
+    print("temp is above boiling point")
