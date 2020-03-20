@@ -20,8 +20,10 @@ type(a)
 #if else problems
 d="monday"
 e=12
-if d=='monday'
+if d=='monday':
     print("happy monday")
+elif d=="tuesday":
+    print("have a good day")
 else:
-    print("have a good day")   
+    print("yo")
 
