@@ -6,5 +6,5 @@ save_non_project_files = False
 
 [main]
 version = 0.2.0
-recent_files = ['..\\opencv\\reading_an_image.py', '..\\opencv\\writing_an_image.py', '..\\opencv\\getting_image_info.py']
+recent_files = ['..\\opencv\\opencv\\image_bitwise_operations.py', '..\\opencv\\opencv\\image_blurring.py', '..\\opencv\\opencv\\image_smoothing.py']
 
